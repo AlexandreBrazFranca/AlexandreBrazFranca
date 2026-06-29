@@ -3,23 +3,7 @@
 Olá, me chamo Alexandre Braz Franca e sou estudante de Engenharia de Software, cursando o segundo semestre, pela Uniasselvi. Sou fascinado por tecnologia e computação desde criança. Na área de desenvolvimente foi onde encontrei a oportunidade para poder realizar um sonho, de poder trabalhar com a tecnologia, onde vejo que a cada passo dado novos desafios surgem, junto com o aprendizado, que nunca para.
 Estudando Java, HTML, CSS e JavaScript e o básico de Python.
 <strong>Hoje busco trabalhar com Back-end!</strong>
-<div>
- <a href="https://github.com/AlexandreBrazFranca/github-readme-stats">
-    <img 
-        width="44%"
-        height=200
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=AlexandreBrazFranca&custom_title=Estatisticas+do+GitHub&show_icons=true&theme=dracula">
-  </a>
-  
-<a href="https://github.com/AlexandreBrazFranca/convoychat">
-    <img
-        width="46%"
-        height=200
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreBrazFranca&custom_title=Linguagens&show_icons=true&layout=compact&langs_count=6&theme=dracula">
-</a>
-</div>
+
 
 <div>
 
