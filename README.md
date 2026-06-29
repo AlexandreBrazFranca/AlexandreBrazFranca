@@ -4,7 +4,7 @@ Olá, me chamo Alexandre Braz Franca e sou estudante de Engenharia de Software, 
 Estudando Java, HTML, CSS e JavaScript e o básico de Python.
 <strong>Hoje busco trabalhar com Back-end!</strong>
 <div>
- <a href="https://github.com/Lorenzo-Borges/github-readme-stats">
+ <a href="https://github.com/AlexandreBrazFranca/github-readme-stats">
     <img 
         width="44%"
         height=200
@@ -12,7 +12,7 @@ Estudando Java, HTML, CSS e JavaScript e o básico de Python.
         src="https://github-readme-stats.vercel.app/api?username=AlexandreBrazFranca&custom_title=Estatisticas+do+GitHub&show_icons=true&theme=dracula">
   </a>
   
-<a href="https://github.com/Lorenzo-Borges/convoychat">
+<a href="https://github.com/AlexandreBrazFranca/convoychat">
     <img
         width="46%"
         height=200
